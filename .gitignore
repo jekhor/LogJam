@@ -79,3 +79,4 @@ util/Makefile.in
 util/bansheeclient/Makefile.in
 util/xmmsclient/.deps/*
 util/xmmsclient/Makefile.in
+.pc
